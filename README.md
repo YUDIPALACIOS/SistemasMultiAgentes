@@ -12,7 +12,8 @@ Video de funcionalidad del reto
 
 Archivo de Python con la modelación del sistema multiagente
 
-Archivos de Unity con la implementación gráfica del sistema
+IMPORTANTE: Archivos de Unity con la implementación gráfica del sistema se encuentran en este otro repositorio
+https://github.com/HayabusaLA/MU_TC2008B.570.git ya que debido al tamaño no se ha podido cargar la carpeta a este repositorio.
 
 Descripción breve del reto: todos estos archivos y documentos son en referencia a la solución desarrollada para un reto de movilidad 
 donde el objetivo era regular el tráfico en un cruce con intersecciones donde los agentes involucrados eran los semáforos y vehículos
