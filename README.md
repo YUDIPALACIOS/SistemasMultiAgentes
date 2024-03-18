@@ -17,3 +17,5 @@ Archivos de Unity con la implementación gráfica del sistema
 Descripción breve del reto: todos estos archivos y documentos son en referencia a la solución desarrollada para un reto de movilidad 
 donde el objetivo era regular el tráfico en un cruce con intersecciones donde los agentes involucrados eran los semáforos y vehículos
 principalmente.
+
+Nota adicional: cada uno de estos archivos también se han cargado de forma separada en el portafolio de elumen.
